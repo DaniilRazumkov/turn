@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">povorot</string>
+    <string name="portaitText">Телефон в портретном режиме</string>
+    <string name="landscapeText">Телефон повернули на 90 градусов</string>
+    <string name="name">Ведите имя:</string>
+    <string name="phone">Введите телефон:</string>
+
+</resources>
